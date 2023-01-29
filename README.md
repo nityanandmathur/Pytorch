@@ -1,2 +1,2 @@
 # Pytorch
-Contains pytorch notebooks
+Contains pytorch notebooks for computer vision
